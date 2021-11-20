@@ -11,7 +11,6 @@ const search = () => {
     console.log(input.value);
   })
 
-
 }
 
 search()
